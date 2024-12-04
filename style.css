@@ -638,4 +638,13 @@ td {
         color: black;
         padding: 0.2rem;
     }
+    .call-to-action img{
+        height: 100%;
+    }
+    .call-content h1{
+        line-height: 1.5;
+    }
+    .call-content{
+        width: 100%;
+    }
 }
